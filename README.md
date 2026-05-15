@@ -5,7 +5,7 @@ Nexload is a powerful, lightweight utility for Android users to download high-qu
 ## 📥 Download Latest Version
 To get started, download the latest APK from our releases page:
 
-[![Download Nexload](https://img.shields.io/badge/Download-APK_v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/Rifat-Profiles/Nexload-Android-Downloader-APK/releases/latest)
+[![Download Nexload](https://img.shields.io/badge/Download-APK_v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/Rifat-Profiles/Nexload-Android-Downloader-APK/releases/download/v1.0.0/NexLoad_v1.0.0.apk)
 
 ---
 

